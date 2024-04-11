@@ -1,0 +1,430 @@
+﻿global_category,overview_category,map_category,column_name,long_name,Definition,group_indicator,Source,multiple_version
+Overview,Overall Comparison with Previous NDC,Overall Comparison with Previous NDC,ndce_revised,Revised from previous submission,,,Climate Watch,TRUE
+Overview,Overall Comparison with Previous NDC,Overall Comparison with Previous NDC,ndce_rdcd_ghg,Strengthened mitigation (reduced total GHG emissions in 2030),,,Climate Watch,TRUE
+Overview,Overall Comparison with Previous NDC,Overall Comparison with Previous NDC,ndce_ghgt,Strengthened or added GHG target,,,Climate Watch,TRUE
+Overview,Overall Comparison with Previous NDC,Overall Comparison with Previous NDC,ndce_sectoral,Strengthened or added sectoral target,,,Climate Watch,TRUE
+Overview,Overall Comparison with Previous NDC,Overall Comparison with Previous NDC,ndce_pa,Strengthened or added policies and actions,,,Climate Watch,TRUE
+Overview,Overall Comparison with Previous NDC,Overall Comparison with Previous NDC,ndce_adp,Strengthened adaptation,,,Climate Watch,TRUE
+Overview,Overall Comparison with Previous NDC,Overall Comparison with Previous NDC,ndce_ctu,"Provided additional Information for clarity, transparency, and understanding",,,Climate Watch,TRUE
+Overview,Summary of Commitment,,indc_summary,NDC summary,,,Climate Watch,TRUE
+Overview,Summary of Commitment,,pledge_content,Pledge content,,,Pledges,FALSE
+Overview,Summary of Commitment,,lts_vision,Long-term Vision,Description of the long-term vision ,,LTS,FALSE
+Overview,Summary of Commitment,,lse_target_description,Target Description,,,LSE,FALSE
+Overview,Summary of Commitment,Mitigation,mitigation_contribution_type,Mitigation contribution type,,,Climate Watch,TRUE
+Overview,Summary of Commitment,,ghg_target,GHG target,,,Climate Watch,TRUE
+Overview,Summary of Commitment,Mitigation,ghg_target_type,GHG target type,,,Climate Watch,TRUE
+Overview,Summary of Commitment,,non_ghg_target,Non-GHG target,,,Climate Watch,TRUE
+Overview,Summary of Commitment,Mitigation,time_target_year,Target year (mitigation),,,Climate Watch,TRUE
+Overview,Summary of Commitment,,timeframe,Timeframe for implementation,,,Climate Watch,TRUE
+Overview,Summary of Commitment,Adaptation,adaptation,Adaptation included,,,Climate Watch,TRUE
+Overview,Summary of Commitment,,A_Tg_TarYr,Target year (adaptation),,,WB,TRUE
+Overview,Summary of Commitment,Finance and Support,conditionality,Conditionality,,,Climate Watch,TRUE
+Overview,Summary of Commitment,Child and Youth Sensitivity,child_sensitive_NDC,Child Sensitivity Category of NDC,"The indicator refers to whether the NDC can be consider child- sensitive, based on the following key principles: References, Rights-Based, Holistic and Multisectoral, and Inclusive.",,UNICEF,TRUE
+Overview,UNFCCC Process,,pa_ratified,Ratified,,,Climate Watch,FALSE
+Overview,UNFCCC Process,,pa_ratified_date,Date of ratification,,,Climate Watch,FALSE
+Overview,UNFCCC Process,,pa_sign,Signed,,,Climate Watch,FALSE
+Overview,UNFCCC Process,,pa_sign_date,Date of signature,,,Climate Watch,FALSE
+Overview,UNFCCC Process,UNFCCC Process,pa_status,Status of ratification,,,Climate Watch,FALSE
+Overview,UNFCCC Process,UNFCCC Process,submission,Latest submission,,,Climate Watch,FALSE
+Overview,UNFCCC Process,UNFCCC Process,submission_type,Last submission document type,,,Climate Watch,FALSE
+Overview,UNFCCC Process,,submission_date,Latest submission date,,,Climate Watch,FALSE
+Overview,UNFCCC Process,UNFCCC Process,indc_submission,INDC Submission,,,Climate Watch,FALSE
+Overview,UNFCCC Process,UNFCCC Process,revised,Revised from previous submission,,,Climate Watch,FALSE
+Overview,Planning Process,,stakeholder_consultation,NDC preparation: stakeholder consultation,,,NDC Explorer,TRUE
+Overview,Planning Process,,planning_of_ndc_implementation,Planning of NDC implementation,,,NDC Explorer,TRUE
+Overview,Planning Process,,education,Education,"Mentioning of education, and whether countries plan to do education to implement their INDC (adaptation, mitigation or both)",,NDC Explorer,TRUE
+Overview,Planning Process,,aw_rais,Awareness raising,"Mentioning of awareness raising on climate change, and whether countries plan to raise people's awareness to implement their INDC (adaptation, mitigation or both)",,NDC Explorer,TRUE
+Overview,Planning Process,,training,Training,"Mentioning of training on climate change, and whether countries plan to do training to implement their INDC (adaptation, mitigation or both)",,NDC Explorer,TRUE
+Overview,Planning Process,,info_access,Access to information,"Mentioning of access to information, and whether countries plan to improve information access to implement their INDC (adaptation, mitigation or both)",,NDC Explorer,TRUE
+Overview,Planning Process,,monitoring_and_review,Monitoring and review,,,NDC Explorer,TRUE
+Overview,Planning Process,,co_benefits_ccm,Co-benefits of mitigation,,,NDC Explorer,TRUE
+Overview,Planning Process,,co_benefits_of_adaptation,Co-benefits of adaptation,,,NDC Explorer,TRUE
+Overview,Planning Process,Child and Youth Sensitivity,child_consultation,Included children in the review and update process,The indicator refers to whether the participatory process carried out to develop the new or updated NDC specifically included children or adolescents and is specifically mentioned in the NDC document.,,UNICEF,TRUE
+Overview,Planning Process,Child and Youth Sensitivity,youth_consultation,Included young people in the review and update process,The indicator refers to whether the participatory process carried out to develop the new or updated NDC specifically included young people and is specifically mentioned in the NDC document.,,UNICEF,TRUE
+Overview,Children and Young People,ACE Commitments,action_climate_empowerment,Inclusion of commitments in at least one of the Action for Climate Empowerment framework components,"The indicator refers to whether the NDC integrates the Action for Climate Empowerment (ACE) framework by including commitments in at least one of its components: education, training, public awareness, public access to information, public participation and international cooperation; even if the NDC doesnÂ´t explicitly refer to ACE.",,UNICEF,TRUE
+Overview,Children and Young People,ACE Commitments,ace_training,Inclusion of child-sensitive commitments on training,"The indicator refers to whether the training commitments included in the NDC can be considered child/youth- sensitive. This means that it specifically addresses or considers the training of children and young people, families or the sectors and services on which children depend, such as teachers, health professionals or social institutions.",,UNICEF,TRUE
+Overview,Children and Young People,ACE Commitments,ace_public_awareness,Inclusion of child-sensitive commitments on public awareness,"The indicator refers to whether the public awareness commitments included in the NDC can be considered child/youth- sensitive. This means that it addresses or considers specifically the awareness of children and young people, families or the sectors and services on which children depend, such as teachers, health professionals or social institutions through targeted and systematic communications.",,UNICEF,TRUE
+Overview,Children and Young People,ACE Commitments,ace_public_access_information ,Inclusion of child-sensitive commitments on public access to information,"The indicator refers to whether the public access to information commitments included in the NDC can be considered child- and youth- sensitive. This means that it specifically addresses or consider the capacities and needs of children and young people to access information, including that information is available in a child-friendly manner â€“ in age-appropriate and suitable for the capacities of children of all groups and backgrounds.",,UNICEF,TRUE
+Overview,Children and Young People,ACE Commitments,ace_public_participation,Inclusion of child-sensitive commitments on inclusion of children and youth in public participation ,The indicator refers to whether the public participation commitments included in the NDC can be considered child- and youth- sensitive. This means that it specifically addresses or considers meaningful participation of children and young people in decision making spaces on the climate agendaâ€,,UNICEF,TRUE
+Overview,Children and Young People,Child and Youth Sensitivity,references_child,Criteria 1: References - Explicit and meaningful reference to children and youth,The indicator refers to the existence of explicit and meaningful references to children and youth within the NDC.,,UNICEF,TRUE
+Overview,Children and Young People,Child and Youth Sensitivity,right_based_child,Criteria 2: Rights-Based - Consider children and youth as rights-holders ,"This indicater refers to whether the NDC considers children and youth as rights-holders, through meaningful references to children rights or intergenerational justice and equity.",,UNICEF,TRUE
+Overview,Children and Young People,Child and Youth Sensitivity,multisectoral_child,Criteria 3: Holistic and Multisectoral - Addresses the specific risks and vulnerabilities of children,This indicator refers to whether the NDC addresses the specific risks and vulnerabilities of children by including child-sensitive multi-sectoral commitments.,,UNICEF,TRUE
+Overview,Children and Young People,Child and Youth Sensitivity,inclusive_child,Criteria 4: Inclusive - Identifies children and youth as an important stakeholder ,This indicator refers to whether the NDC identifies children and youth as an important stakeholder and ensures inclusiveness by having integrated children and youth in the consultation process or committing to enhance child and youth participation and empowerment.,,UNICEF,TRUE
+Overview,Children and Young People,Child and Youth Sensitivity,children_drivers_of_change,Identification of children as drivers of change,The indicator refers to whether children are identified as important stakeholders or agents of change in climate action.,,UNICEF,TRUE
+Overview,Children and Young People,Child and Youth Sensitivity,youth_drivers_of_change,Identification of young people as drivers of change,The indicator refers to whether young people are identified as important stakeholders or agents of change in climate action.,,UNICEF,TRUE
+Overview,Finance and Support,,adaptation_conditional_financial_requirements,Identified Financial Requirements for Adaptation Conditional (billion USD) ,,,Climate Watch,TRUE
+Overview,Finance and Support,,adaptation_unconditional_financial_requirements,Identified Financial Requirements for Adaptation Unconditional (billion USD) ,,,Climate Watch,TRUE
+Overview,Finance and Support,,adaptation_total_financial_requirements,Identified Financial Requirements for Adaptation Total (billion USD) ,,,Climate Watch,TRUE
+Overview,Finance and Support,,mitigation_conditional_financial_requirements,Identified Financial Requirements for Mitigation Conditional (billion USD) ,,,Climate Watch,TRUE
+Overview,Finance and Support,,mitigation_unconditional_financial_requirements,Identified Financial Requirements for Mitigation Unconditional (billion USD) ,,,Climate Watch,TRUE
+Overview,Finance and Support,,mitigation_total_financial_requirements,Identified Financial Requirements for Mitigation Total (billion USD) ,,,Climate Watch,TRUE
+Overview,Finance and Support,,unspecified_conditional_financial_requirements,Identified Financial Requirements (Unspecified) Conditional (billion USD) ,,,Climate Watch,TRUE
+Overview,Finance and Support,,unspecified_unconditional_financial_requirements,Identified Financial Requirements (Unspecified) Unconditional (billion USD) ,,,Climate Watch,TRUE
+Overview,Finance and Support,,unspecified_total_financial_requirements,Identified Financial Requirements (Unspecified) Total (billion USD) ,,,Climate Watch,TRUE
+Overview,Finance and Support,,conditional_financial_requirements,Identified Total conditional Financial Requirements (billion USD),,,Climate Watch,TRUE
+Overview,Finance and Support,,unconditional_financial_requirements,Identified Total unconditional Financial Requirements (billion USD),,,Climate Watch,TRUE
+Overview,Finance and Support,Finance and Support,identified_total_financial_requirements,Identified Total Financial Requirements (billion USD),,,Climate Watch,TRUE
+Overview,Finance and Support,Finance and Support,identified_financial_requirements_for_adaptation,Identified Total Financial Requirements for Adaptation (billion USD),,,Climate Watch,TRUE
+Overview,Finance and Support,Finance and Support,identified_financial_requirements_for_mitigation,Identified Total Financial Requirements for Mitigation (billion USD),,,Climate Watch,TRUE
+Overview,Finance and Support,Finance and Support,identified_unspecified_financial_requirements,Identified Total Unspecified Financial Requirements (billion USD),,,Climate Watch,TRUE
+Overview,Finance and Support,Finance and Support,current_loss_and_damage_economic_losses_identified,Identified Total Economic Loss for Current Loss and Damage,,,Climate Watch,TRUE
+Overview,Finance and Support,Finance and Support,future_loss_and_damage_economic_losses_identified,Identified Total Economic Loss for Future Loss and Damage,,,Climate Watch,TRUE
+Overview,Finance and Support,,conditionality_of_adaptation_finance,Conditionality of adaptation finance,,,NDC Explorer,TRUE
+Overview,Finance and Support,,conditionality_of_mitigation_finance,Conditionality of mitigation finance,,,NDC Explorer,TRUE
+Overview,Finance and Support,,conditionality_of_technology_transfer,Conditionality of technology transfer,,,NDC Explorer,TRUE
+Overview,Finance and Support,,M_Cost7,Technologies needed to implement NDC,,,WB,TRUE
+Overview,Finance and Support,,conditionality_of_capacity_building,Conditionality of capacity building,,,NDC Explorer,TRUE
+Overview,Finance and Support,,M_Cost8,Capacity building needed to implement NDC,,,WB,TRUE
+Overview,Finance and Support,,M_Cost1,Total estimated costs of implementation of target,,,WB,TRUE
+Overview,Finance and Support,,M_Cost2,Mitigation costs of implementation of target,,,WB,TRUE
+Overview,Finance and Support,,M_Cost3,Adaptation costs of implementation of target,,,WB,TRUE
+Overview,Finance and Support,,M_Cost4,Other costs of implementation of target,Other cost associated with the implementation of target ,,WB,TRUE
+Overview,Finance and Support,,M_Cost6,Potential financing sources identified in NDC,Potential financing resources identified,,WB,TRUE
+Overview,Finance and Support,,A_Cd_UncCost,Total implementation costs for unconditional part,,,WB,TRUE
+Overview,Finance and Support,,A_Cd_ConCost,Total implementation costs for conditional part ,,,WB,TRUE
+Overview,Finance and Support,,climate_risk_insurance,Climate risk insurance,,,NDC Explorer,TRUE
+Overview,Fairness and Ambition,,fairness,Description of fairness,,,Climate Watch,TRUE
+Overview,Fairness and Ambition,,ambition,Description of ambition,,,Climate Watch,TRUE
+Overview,Fairness and Ambition,,objective,Description of how it contributes towards achieving the objective of the Convention,,,Climate Watch,TRUE
+Overview,Broader Picture,,historical_responsibility,Historical responsibility,,,NDC Explorer,TRUE
+Overview,Broader Picture,,temp_target,Limiting global temperature increase,,,NDC Explorer,TRUE
+Overview,Broader Picture,,gender,Gender,,,NDC Explorer,TRUE
+Overview,Broader Picture,,human_rights,Human rights,,,NDC Explorer,TRUE
+Overview,Broader Picture,,green_economy,Green growth/green economy,,,NDC Explorer,TRUE
+Overview,Broader Picture,,loss_and_damage,Loss and damage,,,NDC Explorer,TRUE
+Overview,NDC Enhancement Tracker,,ndce_ghg,Share of Global GHG Emissions,,,Climate Watch,FALSE
+Overview,NDC Enhancement Tracker,,ndce_status_2020,NDC Status,,,Climate Watch,FALSE
+Overview,NDC Enhancement Tracker,,ndce_statement,Statement,,,Climate Watch,FALSE
+Overview,NDC Enhancement Tracker,,ndce_date,Date,,,Climate Watch,FALSE
+Overview,NDC Enhancement Tracker,,ndce_source,Source Link,,,Climate Watch,FALSE
+Overview,NDC Enhancement Tracker,,ndce_compare,NDCE Compare,,,Climate Watch,FALSE
+Mitigation,GHG Target,,ghg_target_type,GHG target type,,,Climate Watch,TRUE
+Mitigation,GHG Target,Mitigation,time_single_multi_year_target,Single or multi-year target,,,Climate Watch,TRUE
+Mitigation,GHG Target,,time_target_emissions,Target level of emissions,,,Climate Watch,TRUE
+Mitigation,GHG Target,,M_TarYr,Target year,The year by which mitigation objectives are expected to be achieved,,WB,TRUE
+Mitigation,GHG Target,,M_TarA1,Absolute emission reduction (MtCO2eq),,,WB,TRUE
+Mitigation,GHG Target,,M_TarA2,Emission reduction compared to base year (%),,,WB,TRUE
+Mitigation,GHG Target,,M_TarA3,Emissions level in base year (MtCO2eq),,,WB,TRUE
+Mitigation,GHG Target,,M_TarA4,Base year,,,WB,TRUE
+Mitigation,GHG Target,,M_TarA5,Absolute emission reduction compared to baseline (MtCO2eq),,,WB,TRUE
+Mitigation,GHG Target,,M_TarA6,Baseline emissions level in target year (MtCO2eq),,,WB,TRUE
+Mitigation,GHG Target,,M_TarB1,Emission reduction compared to baseline (%),,,WB,TRUE
+Mitigation,GHG Target,,M_TarB2,Baseline emissions level in target year (MtCO2eq),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC1,Targeted emissions intensity per GDP (tCO2eq per GDP),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC2,Reduction in emissions intensity per GDP compared to base year (%),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC3,Emissions intensity per GDP in base year (tCO2eq per GDP),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC4,Base year,,,WB,TRUE
+Mitigation,GHG Target,,M_TarC7,Targeted emissions intensity per capita (tCO2eq per capita),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC8,Reduction in emissions intensity per capita compared to base year (% per capita),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC9,Emissions intensity per capita in base year (tCO2eq per capita),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC10,Base year,,,WB,TRUE
+Mitigation,GHG Target,,M_TarC11,Reduction in emissions intensity per capita compared to target year (%),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC12,Baseline emissions intensity per capita in target year (tCO2eq per capita),,,WB,TRUE
+Mitigation,GHG Target,,M_Con1,Unconditional part of mitigation target,,,WB,TRUE
+Mitigation,GHG Target,,M_Con2,Estimated costs of unconditional part,,,WB,TRUE
+Mitigation,GHG Target,,M_Con3,Conditional part of mitigation target,,,WB,TRUE
+Mitigation,GHG Target,,M_Con4,Estimated costs of conditional part,,,WB,TRUE
+Mitigation,GHG Target,,M_Con5,"Conditional upon international provision of means of implementation: capacity building, technology development and transfer, financing",Whether the NDC is conditional upon international support,,WB,TRUE
+Mitigation,GHG Target,,M_OtherCon,Other conditions,,,WB,TRUE
+Mitigation,GHG Target,,M_TarYr_2,Second target year,Whether the NDC has a second-year target,,WB,TRUE
+Mitigation,GHG Target,,M_TarA1_2,Second Target: Absolute emission reduction (MtCO2eq),,,WB,TRUE
+Mitigation,GHG Target,,M_TarA2_2,Second Target: Emission reduction compared to base year (%),,,WB,TRUE
+Mitigation,GHG Target,,M_TarA3_2,Second Target: Emissions level in base year (MtCO2eq),,,WB,TRUE
+Mitigation,GHG Target,,M_TarA4_2,Second Target: Base year,,,WB,TRUE
+Mitigation,GHG Target,,M_TarA5_2,Second Target: Absolute emission reduction compared to baseline (MtCO2eq),,,WB,TRUE
+Mitigation,GHG Target,,M_TarA6_2,Second Target: Baseline emissions level in target year (MtCO2eq),,,WB,TRUE
+Mitigation,GHG Target,,M_TarB1_2,Second Target: Emissions reduction compared to baseline (%),,,WB,TRUE
+Mitigation,GHG Target,,M_TarB2_2,Second Target: Baseline emissions level in target year (MtCO2eq),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC1_2,Second Target: Targeted emissions intensity per GDP (tCO2eq per GDP),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC2_2,Second Target: Reduction in emissions intensity per GDP compared to base year (%),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC3_2,Second Target: Emissions intensity per GDP in base year (tCO2eq per GDP),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC4_2,Second Target: Base year,,,WB,TRUE
+Mitigation,GHG Target,,M_TarC7_2,Second Target: Targeted emissions intensity per capita (tCO2eq per capita),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC8_2,Second Target: Reduction in emissions intensity per capita compared to base year (% per capita),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC9_2,Second Target: Emissions intensity per capita in base year (tCO2eq per capita),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC10_2,Second Target: Base year,,,WB,TRUE
+Mitigation,GHG Target,,M_TarC11_2,Second Target: Reduction in emissions intensity per capita compared to target year (%),,,WB,TRUE
+Mitigation,GHG Target,,M_TarC12_2,Second Target: Baseline emissions intensity per capita in target year (tCO2eq per capita),,,WB,TRUE
+Mitigation,GHG Target,,M_Con1_2,Second Target: Unconditional part of mitigation target,,,WB,TRUE
+Mitigation,GHG Target,,M_Con2_2,Second Target: Estimated costs of unconditional part,,,WB,TRUE
+Mitigation,GHG Target,,M_Con3_2,Second Target: Conditional part of mitigation target,,,WB,TRUE
+Mitigation,GHG Target,,M_Con4_2,Second Target: Estimated costs of conditional part,,,WB,TRUE
+Mitigation,GHG Target,,M_Con5_2,"Second Target: Conditional upon international provision of means of implementation: capacity building, technology development and transfer, financing",Whether the second target is conditional upon international support,,WB,TRUE
+Mitigation,GHG Target,,M_OtherCon_2,Second Target: Other conditions,,,WB,TRUE
+Mitigation,Scope and Coverage,Mitigation,coverage_gas,GHG coverage,Chemical notations,,Climate Watch,TRUE
+Mitigation,Scope and Coverage,,coverage_ghg,Greenhouse gases covered,Text,,Climate Watch,TRUE
+Mitigation,Scope and Coverage,Mitigation,coverage_sectors,Sectors covered,,,Climate Watch,TRUE
+Mitigation,Scope and Coverage,,coverage_percent_covered,"Percentage of national emissions covered, as reflected in the most recent national greenhouse gas inventory",,,Climate Watch,TRUE
+Mitigation,Overall Assumptions and Methodologies,,method_ipcc,IPCC inventory methodologies to be used to track progress,,,Climate Watch,TRUE
+Mitigation,Overall Assumptions and Methodologies,,method_gwp,Global warming potential (GWP) values to be used to track progress,,,Climate Watch,TRUE
+Mitigation,Overall Assumptions and Methodologies,,method_baseline_static_dynamic,Baseline scenario targets: Static or dynamic baseline scenario,,,Climate Watch,TRUE
+Mitigation,Overall Assumptions and Methodologies,,method_baseline_year,"Baseline scenario targets: Cut-off year for policies included in the baseline scenario, and any significant policies excluded from the baseline scenario",,,Climate Watch,TRUE
+Mitigation,Overall Assumptions and Methodologies,,method_baseline_projection_method,Baseline scenario targets: Projection method,,,Climate Watch,TRUE
+Mitigation,Overall Assumptions and Methodologies,,method_baseline_emission_drivers,Baseline scenario targets: Emission drivers included and assumptions and data sources for key drivers,,,Climate Watch,TRUE
+Mitigation,Overall Assumptions and Methodologies,,method_baseline_dynamic_recalculation,"Baseline scenario targets: For dynamic baseline scenario targets, under what conditions will the baseline be recalculated",,,Climate Watch,TRUE
+Mitigation,Overall Assumptions and Methodologies,,method_intensity,Assumptions and methodological approaches for GHG reduction targets relative to emissions intensity,,,Climate Watch,TRUE
+Mitigation,Overall Assumptions and Methodologies,,method_actions,Assumptions and methodological approaches for NDCs that include actions,,,Climate Watch,TRUE
+Mitigation,Overall Assumptions and Methodologies,Mitigation,method_imm,Planned use of international market mechanisms,,,Climate Watch,TRUE
+Mitigation,Accounting for Emissions and Removals from the Land Sector,,method_land_treatment,Treatment of land sector,,,Climate Watch,TRUE
+Mitigation,Accounting for Emissions and Removals from the Land Sector,,method_land_coverage,"Coverage of the land sector as compared to total net emissions from the land sector, as a percentage if known",,,Climate Watch,TRUE
+Mitigation,Accounting for Emissions and Removals from the Land Sector,,method_land_accounting_approach,Assumed accounting approach for the land sector (activity-based or land-based),,,Climate Watch,TRUE
+Mitigation,Accounting for Emissions and Removals from the Land Sector,,method_land_accounting_method,"Assumed accounting method for the land sector (net-net, forward-looking baseline, or gross-net)",,,Climate Watch,TRUE
+Mitigation,Accounting for Emissions and Removals from the Land Sector,,method_land_level,"Level against which emissions and removals from the land sector are accounted, including policy assumptions and methodologies employed",,,Climate Watch,TRUE
+Mitigation,Accounting for Emissions and Removals from the Land Sector,,method_land_method,Any assumed use of methodologies to quantify and account for natural disturbances and legacy effects,,,Climate Watch,TRUE
+Mitigation,Accounting for Emissions and Removals from the Land Sector,,method_land_other,"Any other relevant accounting approaches, assumptions or methodologies",,,Climate Watch,TRUE
+Mitigation,International Market Mechanism,,method_imm_limit,Limit on the percentage of emission reductions that may be achieved through the use of units from international market mechanisms,,,Climate Watch,TRUE
+Mitigation,International Market Mechanism,,method_imm_type_unit,Assumed types and years of units to be applied,,,Climate Watch,TRUE
+Mitigation,International Market Mechanism,,method_imm_double_counting,Whether and how any units purchased/acquired or sold/transferred abroad will ensure environmental integrity and avoid double counting,,,Climate Watch,TRUE
+Mitigation,Overall Planning and Preparation,,planning_processes,Planning processes,,,Climate Watch,TRUE
+Mitigation,Overall Planning and Preparation,,M_PL1,Political decision (head of state/ cabinet/ environment ministry),The main institution(s) responsible for enacting climate policies at the country level,,WB,TRUE
+Mitigation,Overall Planning and Preparation,,M_PL2,Technical decision (stakeholder involvement),Whether stakeholders were involved for technical decision on the NDC,,WB,TRUE
+Mitigation,Overall Planning and Preparation,,M_PL3,Assessment of development benefits,Whether or not of the development benefits were assessed in the NDC ,,WB,TRUE
+Mitigation,Overall Planning and Preparation,,M_PL4,Building on existing LEDS (Low Emission Development Strategies and Plans),Whether the NDC builds on existing LEDS,,WB,TRUE
+Mitigation,Overall Planning and Preparation,,M_PL5,Building on existing national development policies,The existing development policies that the NDC builds on,,WB,TRUE
+Mitigation,Overall Planning and Preparation,,M_PL6,NDC development supported by development partner,The development partner (s) that has provided support for the preparation of the NDC,,WB,TRUE
+Mitigation,Overall Planning and Preparation,,M_PL7,Barriers,"The barriers that countries are facing to implement their NDC (i.e. Data uncertainty, lack of policy coordination, poor economic growth, financial constraints",,WB,TRUE
+Mitigation,,Sectoral Mitigation Measures,m_industries,Industries,,,Climate Watch,TRUE
+Mitigation,,Sectoral Mitigation Measures,m_waste,Waste,,,Climate Watch,TRUE
+Mitigation,,Sectoral Mitigation Measures,m_energy,Energy,,,Climate Watch,TRUE
+Mitigation,,Sectoral Mitigation Measures,m_economy-wide,Economy-wide,,,Climate Watch,TRUE
+Mitigation,,Sectoral Mitigation Measures,m_lulucf,LULUCF,,,Climate Watch,TRUE
+Mitigation,,Sectoral Mitigation Measures,m_transport,Transport,,,Climate Watch,TRUE
+Mitigation,,Sectoral Mitigation Measures,m_buildings,Buildings,,,Climate Watch,TRUE
+Mitigation,,Sectoral Mitigation Measures,m_agriculture,Agriculture,,,Climate Watch,TRUE
+Adaptation,,Sectoral Adaptation Measures,a_agriculture,Agriculture,,,Climate Watch,TRUE
+Adaptation,,Sectoral Adaptation Measures,a_coastal_zone,Coastal Zone,,,Climate Watch,TRUE
+Adaptation,,Sectoral Adaptation Measures,a_cross_cutting_area,Cross-Cutting Area,,,Climate Watch,TRUE
+Adaptation,,Sectoral Adaptation Measures,a_drm,Disaster Risk Management (DRM),,,Climate Watch,TRUE
+Adaptation,,Sectoral Adaptation Measures,a_education,Education,,,Climate Watch,TRUE
+Adaptation,,Sectoral Adaptation Measures,a_energy,Energy,,,Climate Watch,TRUE
+Adaptation,,Sectoral Adaptation Measures,a_environment,Environment,,,Climate Watch,TRUE
+Adaptation,,Sectoral Adaptation Measures,a_health,Health,,,Climate Watch,TRUE
+Adaptation,,Sectoral Adaptation Measures,a_lulucf,LULUCF/Forestry,,,Climate Watch,TRUE
+Adaptation,,Sectoral Adaptation Measures,a_social_development,Social Development ,,,Climate Watch,TRUE
+Adaptation,,Sectoral Adaptation Measures,a_tourism,Tourism,,,Climate Watch,TRUE
+Adaptation,,Sectoral Adaptation Measures,a_transport,Transport,,,Climate Watch,TRUE
+Adaptation,,Sectoral Adaptation Measures,a_urban,Urban,,,Climate Watch,TRUE
+Adaptation,,Sectoral Adaptation Measures,a_water,Water,,,Climate Watch,TRUE
+Adaptation,Implementation (Adaptation),,A_Im_Finan,Financial Support,,,Climate Watch,TRUE
+Adaptation,Implementation (Adaptation),,A_Im_TecTran,Technology Transfer,,,Climate Watch,TRUE
+Adaptation,Implementation (Adaptation),,A_Im_CapBul,Capacity Building,,,Climate Watch,TRUE
+Adaptation,Implementation (Adaptation),,A_Cd_ConMOI,Implementation Conditional Upon Means of Implementation (Yes/No),,,Climate Watch,TRUE
+Adaptation,Planning Process (Adaptation),,A_Pl_NatDevPol,Building on Existing National Development/Resilience Policies and Plans,The existing national development/resilience policies that the NDC builds on,,Climate Watch,TRUE
+Adaptation,Planning Process (Adaptation),,A_Pl_PolDec,Political Decision for NDC Planning,The agency in charge for the planning of the NDC,,Climate Watch,TRUE
+Adaptation,Planning Process (Adaptation),,A_Pl_TecGr,Technical Group Engagement in NDC Planning (Yes/No),Whether or not a technical group was engaged in the NDC planning,,Climate Watch,TRUE
+Adaptation,Planning Process (Adaptation),,A_Pl_PrivSec,Private Sector Engagement in NDC Planning (Yes/No),Whether or not the private sector actors were engaged in the NDC planning,,Climate Watch,TRUE
+Adaptation,Planning Process (Adaptation),,A_Pl_MulComm,Multisectoral Commission Engagement in NDC Planning (Yes/No),Whether or not a multi-sectoral commission was engaged in NDC planning.,,Climate Watch,TRUE
+Adaptation,Planning Process (Adaptation),,A_Pl_CivSoc,Civil Society Engagement in NDC Planning (Yes/No),Whether or not civil society actors were engaged in the NDC planning,,Climate Watch,TRUE
+Adaptation,Planning Process (Adaptation),,A_Pl_DevBen,Assessment of Development Benefits in NDC,Information assessment of development benefits in NDC,,Climate Watch,TRUE
+Adaptation,Planning Process (Adaptation),,A_Pl_DevPar,NDC Development Supported by Development Partner,The development partners that have supported the NDC development,,Climate Watch,TRUE
+Adaptation,Planning Process (Adaptation),,A_Pl_Barr,Barriers identifed for NDC Implementation,Identified barriers for NDC implementation.,,Climate Watch,TRUE
+Adaptation,Planning Process (Adaptation),,A_Pl_Com,General Comments,General comments relevant to the adaption effort,,Climate Watch,TRUE
+Sectoral Information,Sectoral Mitigation Targets,,M_SecTar1,Sectoral targets on,Targets at the sectoral level,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Targets,,M_SecTar2,Tracking progress towards targets,Information on progress towards a given sectoral target,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Targets,,M_SecTar4,Emission reduction potential,emission reduction potential for a given sectoral target,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Targets,,M_SecTar5,Estimated total costs for implementation,Estimated total cost of implementation for a given sectoral target,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Targets,,M_SecTar6,Capacity building needs,Capacity building needed for a given sectoral target,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Targets,,M_SecTar7,Technology needs,Technology needed for a given sectoral target ,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Targets,,M_SecTar8,Unconditional part of mitigation target,Unconditional part of the mitigation effort for a given sectoral target,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Targets,,M_SecTar9,Estimated costs for implementation (unconditional),Estimated cost of implementation for the unconditional part of a given sectoral target,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Targets,,M_SecTar10,Conditional part of mitigation target,Conditional part of the mitigation target for a given sectoral target ,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Targets,,M_SecTar11,Estimated costs for implementation (conditional),Estimated cost of implementation for the conditional mitigation part of a given sectoral target,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Policies,,M_SecPol1,Building on existing NAMAs,Whether the upstream policy in the given sector builds on NAMA,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Policies,,M_SecPol2,Existing sectoral policies,Information on the existing upstream sectoral policies that the NDC builds on,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Policies,,M_SecPol3,Upstream policies on,Information on upstream policies for a given sector,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Policies,,M_SecPol6,Emission reduction potential ,Emission reduction potential for a given sectoral upstream ,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Policies,,M_SecPol7,Estimated total costs for implementation,Estimated total cost of implementation for a given sectoral upstream policy,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Policies,,M_SecPol8,Capacity building needs,Capacity building needed for a given sectoral upstream policy,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Policies,,M_SecPol9,Technology needs,Technology needed for a given sectoral upstream policy,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Policies,,M_SecPol10,Unconditional part of mitigation target,Unconditional part of mitigation target for a given upstream sectoral policy,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Policies,,M_SecPol11,Estimated costs for implementation (unconditional),Estimated cost of implementation for the unconditional part of a given sectoral upstream policy ,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Policies,,M_SecPol12,Conditional part of mitigation target,Conditional part of mitigation target for a given sectoral upstream policy,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Policies,,M_SecPol13,Estimated costs for implementation (conditional),Estimated cost of implementation for the conditional part of a given sectoral policy,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Plans,,M_SecGen3,Sectoral plans on,Information on sectoral plans,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Plans,,M_SecGen4,Emission reduction potential,emission reduction potential for a given sectoral plan,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Plans,,M_SecGen5,Estimated total costs for implementation,Estimated total costs of implementation for a given sectoral plan,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Plans,,M_SecGen6,Capacity building needs,Capacity building needed for a given sectoral plan,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Plans,,M_SecGen7,Technology needs,Technology needed for a given sectoral plan,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Plans,,M_SecGen8,Unconditional part of mitigation target,Unconditional part of mitigation target for a given sectoral plan,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Plans,,M_SecGen9,Estimated costs for implementation (unconditional),Estimated cost of implementation for the unconditional part of a given sectoral plan,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Plans,,M_SecGen10,Conditional part of mitigation target,Conditional part of mitigation target for a given sectoral plan,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Plans,,M_SecGen11,Estimated costs for implementation (conditional),Estimated cost of implementation for the conditional part of a given sectoral plan,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Actions,,M_SecAct1,Building on existing downstream actions,Existing sectoral downstream actions that the NDC builds on,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Actions,,M_SecAct2,Downstream actions,Sectoral downstream actions to be undertaken as part of the NDC contribution,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Actions,,M_SecAct5,Emission reduction potential ,Emission reduction potential for a given sectoral downstream action ,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Actions,,M_SecAct6,Estimated total costs for implementation,Estimated total cost of implementation for a given sectoral downstream action (mitigation and adaptation),,WB,TRUE
+Sectoral Information,Sectoral Mitigation Actions,,M_SecAct7,Capacity building needs,Capacity building needed for a given sectoral downstream action,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Actions,,M_SecAct8,Technology needs,Technology needed for a given sectoral downstream action ,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Actions,,M_SecAct9,Unconditional part of mitigation target,Unconditional part of mitigation target for a given sectoral downstream action,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Actions,,M_SecAct10,Estimated costs for implementation (unconditional),Estimated cost of implementation for the unconditional part of a given sectoral downstream action ,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Actions,,M_SecAct11,Conditional part of mitigation target,Conditional part of mitigation target for a given sectoral downstream actions,,WB,TRUE
+Sectoral Information,Sectoral Mitigation Actions,,M_SecAct12,Estimated costs for implementation (conditional),Estimated cost of implementation for the conditional part of a given sectoral downstream action ,,WB,TRUE
+Sectoral Information,Adaptation Commitments,,A_Sc_Pol,Sectoral Policies,Sectoral plans and strategies for adaptation.,,WB,TRUE
+Sectoral Information,Adaptation Commitments,,A_Sc_Tar,Sectoral Target,Adaptation targets/ objectives at the sectoral level,,WB,TRUE
+Sectoral Information,Adaptation Commitments,,A_Sc_UncAct,Sectoral Unconditional Actions,Unconditional sectoral actions,,WB,TRUE
+Sectoral Information,Adaptation Commitments,,A_Sc_UncActImp,Implementing Agency for Sectoral Unconditional Actions,The agency responsible for implementing the sectoral unconditional actions,,WB,TRUE
+Sectoral Information,Adaptation Commitments,,A_Sc_UncActDon,Funders for Sectoral Unconditional Actions,The funders for sectoral unconditional actions,,WB,TRUE
+Sectoral Information,Adaptation Commitments,,A_Sc_UncActCost,Estimated Cost for Sectoral Unconditional Actions,The estimated cost for sectoral unconditional actions,,WB,TRUE
+Sectoral Information,Adaptation Commitments,,A_Sc_ConAct,Sectoral Conditional Actions,Condition actions of the sectoral level,,WB,TRUE
+Sectoral Information,Adaptation Commitments,,A_Sc_ConActImp,Implementing Agency for Sectoral Conditonal Actions,The agency responsible for implementing the sectoral conditional action,,WB,TRUE
+Sectoral Information,Adaptation Commitments,,A_Sc_ConActDon,Funders for Sectoral Conditional Actions,The funders for sectoral conditional actions,,WB,TRUE
+Sectoral Information,Adaptation Commitments,,A_Sc_ConActCost,Estimated Cost for Sectoral Conditional Actions ,The estimated costs for sectoral conditional actions,,WB,TRUE
+Sectoral Information,Adaptation Commitments,,A_Sc_TecTran,Technology Transfer Needs for Sectoral Implementation,Technology transfer needs for sectoral implementation,,WB,TRUE
+Sectoral Information,Adaptation Commitments,,A_Sc_CapBud,Capacity Building Needs for Sectoral Implementation,Capacity building needs for Sectoral implementation,,WB,TRUE
+Sectoral Information,Adaptation Commitments,,A_Sc_TraProg,Tracking Progress for Sectoral Implementation,Information on how progress for sectoral implementation will be tracked,,WB,TRUE
+Overview,Summary of Commitment,Overview,lts_submission,Communication of Long-term Strategy,,,LTS,FALSE
+Overview,Summary of Commitment,,lts_document,Long-term Strategy Document,,,LTS,FALSE
+Overview,Summary of Commitment,,lts_date,Submission Date,Submission date of the long-term strategies,,LTS,FALSE
+Overview,Summary of Commitment,GHG Target,lts_target,Quantified Long-term Emissions Goal,Long-term quantified outcome for greenhouse gas emissions reductions,,LTS,FALSE
+Overview,Summary of Commitment,GHG Target,lts_m_tt,Target Type,,,LTS,FALSE
+Overview,Summary of Commitment,GHG Target,lts_zero,Net-zero Target,Whether the LTS include a net zero target,,LTS,FALSE
+Overview,Summary of Commitment,Overview,lts_m_temp,Consideration of the Long-term Temperature Goal of the Paris Agreement,Description of how the long-term strategy is aligned with the Paris AgreementÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢s temperature goals,,LTS,FALSE
+Mitigation,GHG Target,GHG Target,lts_m_taryr,Timeframe/Target Year,Timeframe for the strategy and target year of any greenhouse gas or nonÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œgreenhouse gas targets ,,LTS,FALSE
+Mitigation,GHG Target,,lts_m_taryr_emi,Target Level of Emissions,Expected national emissions/nonÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œgreenhouse gas outcomes in the target year/period ,,LTS,FALSE
+Adaptation,Adaptation Elements,Overview,lts_a_otc,Long-term Goals and Outcomes for Climate Adaptation and Resiliency,Long-term outcomes for climate adaptation and resiliency,,LTS,FALSE
+Overview,Summary of Commitment,,lts_ghg,Share of global GHG emissions,,,LTS,FALSE
+Overview,Summary of Commitment,,pledge_link,Link to the pledge,,,Pledges,FALSE
+Overview,Summary of Commitment,,pledge_submitted,Pledges Submitted,,,Pledges,FALSE
+Overview,Summary of Commitment,,pledge_summary,Pledge summary,,,Pledges,FALSE
+Overview,Summary of Commitment,,pledge_type,Pledge type,,,Pledges,FALSE
+Overview,Summary of Commitment,,pledge_ghg_type,GHG target type,,,Pledges,FALSE
+Overview,Summary of Commitment,,pledge_non_ghg_target_type,Non-GHG target type,,,Pledges,FALSE
+Mitigation,GHG Target,,pledge_base_year,Base year/period,,,Pledges,FALSE
+Mitigation,GHG Target,,pledge_base_year_emissions,Base year emissions,,,Pledges,FALSE
+Mitigation,GHG Target,,pledge_base_year_intensity,Base year emissions intensity,,,Pledges,FALSE
+Mitigation,GHG Target,,pledge_bau,Projected baseline emissions in target year/period,,,Pledges,FALSE
+Mitigation,GHG Target,,pledge_target_year,Target year/period,,,Pledges,FALSE
+Mitigation,GHG Target,,pledge_single_or_multi_target,Single or multi-year target,,,Pledges,FALSE
+Mitigation,Scope and Coverage,,pledge_sector_coverage,Sector coverage,,,Pledges,FALSE
+Mitigation,Scope and Coverage,,pledge_ghg_coverage,Greenhouse gas coverage,,,Pledges,FALSE
+Mitigation,Scope and Coverage,,pledge_sector_covered,Sectors covered,,,Pledges,FALSE
+Mitigation,Overall Assumptions and Methodologies,,pledge_gwp,GWP values to be used to track progress,,,Pledges,FALSE
+Mitigation,Overall Assumptions and Methodologies,,pledge_imm,Assumptions related to international market mechanisms,,,Pledges,FALSE
+Mitigation,Overall Assumptions and Methodologies,,pledge_land,Assumptions related to accounting for emissions and removals from the land sector,,,Pledges,FALSE
+Mitigation,Other Information,,pledge_support,"Additional information on support needed, as applicable",,,Pledges,FALSE
+Mitigation,Other Information,,pledge_add_info,"Additional information, explanation, or context as relevant",,,Pledges,FALSE
+Overview,Summary of Commitment,,lse_ghg_target,GHG Target,,,LSE,FALSE
+Overview,Summary of Commitment,,lse_target_type,Target Type,,,LSE,FALSE
+Mitigation,GHG Target,,lse_single_year_target,Single or multi-year target,,,LSE,FALSE
+Mitigation,GHG Target,,lse_target_year,Target year,,,LSE,FALSE
+Overview,Summary of Commitment,,lse_target_source,Target Source,,,LSE,FALSE
+Mitigation,GHG Target,,lse_base_year_period,Target Base year/period,,,LSE,FALSE
+Overview,Net-zero Target,Target Description,nz_status,Net-zero Target Status,,,Net_Zero,FALSE
+Overview,Net-zero Target,Target Description,nz_year,Net-zero Target Year,,,Net_Zero,FALSE
+Overview,Net-zero Target,,nz_source,Net-zero Target Source,,,Net_Zero,FALSE
+Overview,Net-zero Target,Target Scope,nz_ghg,Coverage of GHGs,,,Net_Zero,FALSE
+Overview,Net-zero Target,Target Scope,nz_sec,Coverage of Domestic Sectors,,,Net_Zero,FALSE
+Overview,Net-zero Target,Target Scope,nz_offset,Includes International Offsets,,,Net_Zero,FALSE
+Overview,Net-zero Target,Target Scope,nz_ship,Includes International Shipping and Aviation,,,Net_Zero,FALSE
+Overview,Net-zero Target,Target Scope,nz_separate_net_gross,Includes Separate Targets for Gross and Net Reductions,,,Net_Zero,FALSE
+Adaptation,Overview,,ad_included,Adaptation included,Is there an adaptation section/component in the document?,,Climate Watch,TRUE
+Adaptation,Overview,Adaptation,ad_revised,Adaptation revised,Is the adaptation section/component different from the previous version of the document? ,,Climate Watch,TRUE
+Adaptation,Overview,Adaptation,ad_link,Link to Adaptation Communications,Does the NDC have an indication of its relationship to Adaptation Communications ,,Climate Watch,TRUE
+Adaptation,Planning and Coordination Process,Adaptation,ad_plan,Planning process,Does the NDC have a description of the adaptation planning process and the NDC development planning process?,,Climate Watch,TRUE
+Adaptation,Planning and Coordination Process,,ad_plan_ndc,Planning process for NDC development ,Description of the planning process for NDC development ,,Climate Watch,TRUE
+Adaptation,Planning and Coordination Process,,ad_plan_adp,Planning process for adaptation planning ,Description of the planning process for adaptation planning ,,Climate Watch,TRUE
+Adaptation,Planning and Coordination Process,Adaptation,ad_coor,Coordination process,"Is there a description of institutional arrangements to enhance coordination (sectors, other processes, national development, etc.), planning and implementation? ",,Climate Watch,TRUE
+Adaptation,Planning and Coordination Process,,ad_coor_adp,Coordination process for adaptation planning ,Description of coordination process for adaptation planning ,,Climate Watch,TRUE
+Adaptation,Planning and Coordination Process,,ad_coor_other,Coordination process for other development,Description of coordination process with other development or climate change processes ,,Climate Watch,TRUE
+Adaptation,Climate Change Trends and Impacts,Adaptation,ad_cc,Climate change trends,"Does the NDC include short-, medium-, and long-term trends for changes in the climate?",,Climate Watch,TRUE
+Adaptation,Climate Change Trends and Impacts,,ad_cc_short,Short term and/or medium term trends,i. Short term and/or medium term trends in climate change ,,Climate Watch,TRUE
+Adaptation,Climate Change Trends and Impacts,,ad_cc_long,Long term trends,Long term trends in climate change ,,Climate Watch,TRUE
+Adaptation,Climate Change Trends and Impacts,Adaptation,ad_impact,Climate change impacts,Does the NDC include information about the impact of climate change on specific sectors*/systems?,,Climate Watch,TRUE
+Adaptation,Climate Change Trends and Impacts,,ad_impact_phys,Physical climate change impact,Physical climate change impacts on sectors/systems ,,Climate Watch,TRUE
+Adaptation,Climate Change Trends and Impacts,,ad_impact_vul,Vulnerabilities and risks,Vulnerabilities and risks for specific population groups ,,Climate Watch,TRUE
+Adaptation,Climate Change Trends and Impacts,,ad_impact_cc,Climate change included vulnerabilities and risks,Climate change included vulnerabilities and risks for different sectors/systems. ,,Climate Watch,TRUE
+Adaptation,Adaptation vision and priorities,Adaptation,ad_vision,Adaptation goal/vision,Does the NDC articulate a vision or a goal for adaptation? ,,Climate Watch,TRUE
+Adaptation,Adaptation vision and priorities,Adaptation,ad_policies,Adaptation plans and policies,Does the NDC identify plans and policies at the national or sub-national level relevant for adaptation? ,,Climate Watch,TRUE
+Adaptation,Adaptation vision and priorities,,ad_policies_national,National/sectoral level plans and policies,Plans and policies relevant for adaptation at national/sectoral level,,Climate Watch,TRUE
+Adaptation,Adaptation vision and priorities,,ad_policies_sub,Sub-national level plans and policies,Plans and policies relevant for adaptation at sub-national level ,,Climate Watch,TRUE
+Adaptation,Adaptation vision and priorities,Adaptation,ad_priority,Adaptation priorities,Does the NDC identify adaptation priorities?,,Climate Watch,TRUE
+Adaptation,Adaptation vision and priorities,Adaptation,ad_notdirect,Targets that are not directly linked to adaptation priorities,Does the NDC identify targets for adaptation that are not directly  linked to adaptation prioritites? ,,Climate Watch,TRUE
+Adaptation,Financial Needs,Adaptation,ad_fin,Financial needs for implementation,Does the NDC identify financial needs for implementing identified adaptation priorities? ,,Climate Watch,TRUE
+Adaptation,Financial Needs,,ad_fin_uncon,Unconditional financial needs,Total unconditional financial needs for adaptation,,Climate Watch,TRUE
+Adaptation,Financial Needs,,ad_fin_con,Conditional financial needs,Total conditional financial needs for adaptation,,Climate Watch,TRUE
+Adaptation,Financial Needs,Adaptation,ad_nonfin,Other non-financial support needs,Does the NDC identify other non-financial support needs?,,Climate Watch,TRUE
+Adaptation,Experiences and Barriers,Adaptation,ad_past,Past commitments,"Does the NDC provide details on past planning milestones, outputs, and investments made and planned?",,Climate Watch,TRUE
+Adaptation,Experiences and Barriers,,ad_past_pln,Past planning milestones ,Past planning milestones ,,Climate Watch,TRUE
+Adaptation,Experiences and Barriers,,ad_past_outputs,Outputs of adaptation actions ,Outputs of adaptation actions ,,Climate Watch,TRUE
+Adaptation,Experiences and Barriers,,ad_past_invest,Adaptation investments made ,Adaptation investments made ,,Climate Watch,TRUE
+Adaptation,Experiences and Barriers,Adaptation,ad_efforts,Adaptation efforts achieved,Does the NDC provide details on adaptation efforts achieved to date for recognition?,,Climate Watch,TRUE
+Adaptation,Experiences and Barriers,Adaptation,ad_coop,Cooperation on enhancing adaptation," Does the NDC provide details on national, regional, and international cooperation on enhancing adaptation, as appropriate? ",,Climate Watch,TRUE
+Adaptation,Experiences and Barriers,Adaptation,ad_barriers,Barriers,"Does the NDC identify barriers, challenges and gaps related to implementation of adaptation? ",,Climate Watch,TRUE
+Adaptation,Experiences and Barriers,,ad_barriers_info,"Lack of climate and risk information, data and knowledge","Lack of climate and risk information, data and knowledge",,Climate Watch,TRUE
+Adaptation,Experiences and Barriers,,ad_barriers_tech,Lack of access to technology,Lack of access to technology,,Climate Watch,TRUE
+Adaptation,Experiences and Barriers,,ad_barriers_cap,Lack of capacity (specify what kind) ,Lack of capacity (specify what kind) ,,Climate Watch,TRUE
+Adaptation,Experiences and Barriers,,ad_barriers_fin,Lack of financial resources,Lack of financial resources,,Climate Watch,TRUE
+Adaptation,Experiences and Barriers,,ad_barriers_other,Other barriers,other barriers,,Climate Watch,TRUE
+Adaptation,Experiences and Barriers,Adaptation,ad_good,Good practices and lessons identified,Does the NDC identify good practices and lessons learned? ,,Climate Watch,TRUE
+Adaptation,Experiences and Barriers,,ad_good_prac,Good practices identified ,Good practices identified ,,Climate Watch,TRUE
+Adaptation,Experiences and Barriers,,ad_good_less,Lessons learned,Lessons learned for adaptation implementation and planning,,Climate Watch,TRUE
+Adaptation,Monitoring and Evaluation,Adaptation,ad_me,Monitoring and evaluation,Does the NDC describe a monitoring and evaluation approach for adaptation? ,,Climate Watch,TRUE
+Adaptation,Monitoring and Evaluation,,ad_me_ins,Institutional setup,Institutional set up for M&E of adaptation activities ,,Climate Watch,TRUE
+Adaptation,Monitoring and Evaluation,,ad_me_metric,"Indicators, metrics or criteria","Indicators, metrics or criteria for M&E ",,Climate Watch,TRUE
+Adaptation,Monitoring and Evaluation,,ad_me_align,Alignment with national M&E systems,Alignment with other national M&E systems. ,,Climate Watch,TRUE
+Adaptation,Co-benefits,Adaptation,ad_co,Mitigation co-benefits,Does the NDC include adaptation actions with mitigation co-benefits?,,Climate Watch,TRUE
+Adaptation,Co-benefits,,ad_co_emi,Emissions reduction potential,Emission reduction potential of adaptation actions identified?,,Climate Watch,TRUE
+Adaptation,Co-benefits,,ad_co_mit,Adaptation actions accounted for in mitigation,Are above adaptation actions accounted for in mitigation section? ,,Climate Watch,TRUE
+Adaptation,Co-benefits,Adaptation,ad_econ,Economic diversification plans,Does the NDC include economic diversification plans with links to mitigation and adaptation? ,,Climate Watch,TRUE
+Adaptation,International Frameworks,Adaptation,ad_ref,Other international frameworks and/or conventions,Does the NDC include references to other international frameworks and/or conventions in the adpatation component? ,,Climate Watch,TRUE
+Adaptation,Gender and Indigenous People,Adaptation,ad_gen,Gender,Does the NDC include information on how gender has been/will be mainstreamed into planning and implementation?,,Climate Watch,TRUE
+Adaptation,Gender and Indigenous People,,ad_gen_diff,Gender differences,"Addresses gender differences in adaptation needs, opportunities and capacities ",,Climate Watch,TRUE
+Adaptation,Gender and Indigenous People,,ad_gen_par,Equitable participation in decision-making,Addresses equitable participation and influence by women and men in decision-making,,Climate Watch,TRUE
+Adaptation,Gender and Indigenous People,,ad_gen_invest,Equally distributed adaptation investments,Recognizes that financial resources and other benefits resulting from adaptation investments should be equally distributed between women and men,,Climate Watch,TRUE
+Adaptation,Gender and Indigenous People,,ad_gen_me,Gender equality in M&E,"Inclusion of gender equality and women's empowerment in adaptation M&E system, including sex disaggregated data collection?",,Climate Watch,TRUE
+Adaptation,Gender and Indigenous People,Adaptation,ad_indi,Indigenous and local communities,Does the NDC include reference to the inclusion of indigenous and local communities and/or their knowledge? ,,Climate Watch,TRUE
+Adaptation,Gender and Indigenous People,,ad_indi_rights,"Indigenous rights, agency and governance","Does the NDC support increased indigenous rights, agency, and governance systems? ",,Climate Watch,TRUE
+Adaptation,Gender and Indigenous People,,ad_indi_tech,Local knowledge and technologies,Are local knowledge and technologies that preserve culture and indigenous knowledge systems referenced in the NDC? ,,Climate Watch,TRUE
+Adaptation,Gender and Indigenous People,,ad_indi_free,Rights for indegenous peoples,"Are rights to self-determination, and to free, prior, and informed consent for indegenous peoples preserved in the prioritized adaptation actions?",,Climate Watch,TRUE
+Adaptation,Loss and Damage,Loss and Damage,ad_loss,Loss and damage mentioned,Does the NDC mention loss and damage?,,Climate Watch,TRUE
+Adaptation,Loss and Damage,Loss and Damage,ad_def,Definition of loss and damage,Definition of loss and damage?,,Climate Watch,TRUE
+Adaptation,Loss and Damage,Loss and Damage,ad_econloss,Economic loss and damage,Does the NDC have a description of current and future economic loss and damage?,,Climate Watch,TRUE
+Adaptation,Loss and Damage,Loss and Damage,ad_econloss_cur,Current economic loss and damage figures,Current economic loss and damage figure ,,Climate Watch,TRUE
+Adaptation,Loss and Damage,Loss and Damage,ad_econloss_fu,Future economic loss and damage figures ,Future economic loss and damage figures ,,Climate Watch,TRUE
+Adaptation,Loss and Damage,Loss and Damage,ad_econloss_sce,Use of climate change scenario,Use of a climate change scenario when calculating future economic loss and damage,,Climate Watch,TRUE
+Adaptation,Loss and Damage,Loss and Damage,ad_nonecon,Non-economic loss and damage,Does the NDC include non-economic loss and damage? ,,Climate Watch,TRUE
+Adaptation,Loss and Damage,Loss and Damage,ad_ldin,Loss and damage initiatives,Does the NDC include descriptions of on-going and/or prioritized loss and damage initiatives?,,Climate Watch,TRUE
+Adaptation,Loss and Damage,Loss and Damage,ad_ldin_eve,Slow-onset events,i. Information around slow-onset events,,Climate Watch,TRUE
+Adaptation,Loss and Damage,Loss and Damage,ad_ldin_risk,Risk management approaches,"ii. Information on comprehensive risk management approaches (assessment, reduction, transfer, and retention)",,Climate Watch,TRUE
+Adaptation,Loss and Damage,Loss and Damage,ad_ldin_mobi,Human mobility,"iii. Information on human mobility, including migration, displacement and planned relocation",,Climate Watch,TRUE
+Adaptation,Loss and Damage,Loss and Damage,ad_ldin_fin,Finance and capacity building,iv. Information on the provision of finance and capacity building for loss and damage,,Climate Watch,TRUE
+Adaptation,Transformative Adaptation,Transformative Adaptation,ad_trans,Transformative adaptation mentioned,Does the NDC include references to transformative adaptation?,,Climate Watch,TRUE
+Adaptation,Transformative Adaptation,Transformative Adaptation,ad_sys,Changing the underlying system,Does the NDC have adaptation priorities that include a significant expansion in scale with a view of changing the underlying system?,,Climate Watch,TRUE
+Adaptation,Transformative Adaptation,Transformative Adaptation,ad_sys_scope,Expanding geographic area and people impacted,Is the expansion over a larger geographic area or an increase in number of people impacted? ,,Climate Watch,TRUE
+Adaptation,Transformative Adaptation,Transformative Adaptation,ad_sys_incre,Expanding beyond incremental adaptation,Does the expansion activity go beyond incremental adaptation to address changes in the overall system? ,,Climate Watch,TRUE
+Adaptation,Transformative Adaptation,Transformative Adaptation,ad_inno,Innovation,Does the NDC include adaptation priorities with innovation?,,Climate Watch,TRUE
+Adaptation,Transformative Adaptation,Transformative Adaptation,ad_loc,Shift in location,Does the NDC include adaptation priorities that include a shift in location for the adaptation action being implemented?,,Climate Watch,TRUE
+Adaptation,Children and Young People,Child and Youth Sensitivity,a_education_child,Inclusion of child-sensitive commitments on education,"The indicator refers to whether the education sector commitments included in the NDC can be considered child- sensitive. This means that it specifically addresses or considers the educational needs of children including commitments to develop or strengthen curricula (environmental and climate education); to improve learning facilities or associated infrastructure that enable learning (based on resilience, safety, sustainability, adaptation and mitigation of climate change and risks); or to develop skills and knowledge in education staff (on climate, environment and DRR).",,UNICEF,TRUE
+Adaptation,Children and Young People,Child and Youth Sensitivity,a_energy_child,Inclusion of child-sensitive commitments on energy,"The indicator refers to whether the energy commitments included in the NDC can be considered child- sensitive. This means that it addresses or considers access to energy services at the household or community level or in sectors on which children depend (e.g., energy in health or learning facilities, clean cookstoves).",,UNICEF,TRUE
+Adaptation,Children and Young People,Child and Youth Sensitivity,a_health_child,Inclusion of child-sensitive commitments on health,"The indicator refers to whether the health sector commitments included in the NDC can be considered child- sensitive. This means that it addresses or considers actions to improve directly the health of children, young people, family or community (for example, reduction of air pollution and short-lived climate pollutants, promoting the use of more fuel-efficient cook stoves, etc.); to improve health care facilities (climate-resilience solutions and environmental sustainability) and systems (including their preparedness, response, and monitoring capacity); to develop responsive primary care that incorporates children's environmental health; or to embed environmental health in school programmes. ",,UNICEF,TRUE
+Adaptation,Children and Young People,Child and Youth Sensitivity,a_food production_child,Inclusion of child-sensitive commitments on food and nutrition,"The indicator refers to whether the food production commitments included in the NDC can be considered child- and youth- sensitive, including commitments to enhance food and nutritional security of children, young people or families. ",,UNICEF,TRUE
+Adaptation,Children and Young People,Child and Youth Sensitivity,a_social_protection_child,Inclusion of child-sensitive commitments on social protection,"The indicator refers to whether the social protection commitments included in the NDC can be considered child/youth- sensitive. This means that it specifically addresses or considers commitments to act against poverty, cash transfers in favour of children and young people, implementation of social insurance to children, youth or families (health, productive, etc.), support for child care services and youth employability, development and strengthening of social services personnel, strengthening of integrated delivery systems, development and strengthening of national social protection systems, among others.",,UNICEF,TRUE
+Adaptation,Children and Young People,Child and Youth Sensitivity,a_DRR_child,Inclusion of child-sensitive commitments on disaster risk reduction,"The indicator refers to whether the DRR commitments included in the NDC can be considered child- and youth- sensitive, including the development and strengthening of preparedness, response and resilience capacity of children, youth, families, and the services and systems on which they depend.",,UNICEF,TRUE
+Adaptation,Children and Young People,Child and Youth Sensitivity,a_water_child,Inclusion of child-sensitive commitments on water,"The indicator refers to whether the water commitments included in the NDC can be considered child- sensitive. This means that it addresses or considers water resources from a human right to water perspective, including, for example, commitments to ensure water infrastructure, services and behaviors are sustainable, safe and resilient to climate-related risks; increasing access to drinking water in households, communities, or sectors on which children depend (e.g., health care or learning centers); contributing from WASH systems to building community resilience and increasing capacity to adapt to climate change; or implementing efforts to monitor and manage drinking water resources; among others.",,UNICEF,TRUE
+Adaptation,Children and Young People,Child and Youth Sensitivity,a_sanitation_child,Inclusion of child-sensitive commitments on sanitation,"The indicator refers to whether the sanitation commitments included in the NDC can be considered child- sensitive. This means that it addresses or considers water resources from a human right to water perspective, including, for example, commitments to ensure sanitation infrastructure, services and behaviors are sustainable, safe and resilient to climate-related risks; increasing access to proper sanitation solutions in households, communities, or sectors on which children depend (e.g., health care or learning centers); or contributing from WASH systems to building community resilience and increasing capacity to adapt to climate change; among others.",,UNICEF,TRUE
+Adaptation,Vulnerability,Child and Youth Sensitivity,a_vulnerable_child,Identification of children as a vulnerable group,The indicator refers to whether children are identified specifically as a vulnerable group to the impacts of climate change.,,UNICEF,TRUE
+Adaptation,Vulnerability,Child and Youth Sensitivity,a_vulnerable_youth,Identification of young people as a vulnerable group,The indicator refers to whether young people are identified specifically as a vulnerable group to the impacts of climate change.,,UNICEF,TRUE
+Adaptation,Vulnerability,,migration_and_displacement,Migration and displacement,,,NDC Explorer,TRUE
+Adaptation,Vulnerability,,vulnerability_agriculture,Vulnerability: agriculture,,,NDC Explorer,TRUE
+Adaptation,Vulnerability,,vulnerability_water,Vulnerability: water,,,NDC Explorer,TRUE
+Adaptation,Vulnerability,,vulnerability_ecosystems,Vulnerability: ecosystems,,,NDC Explorer,TRUE
+Adaptation,Vulnerability,,vulnerability_health,Vulnerability: health,,,NDC Explorer,TRUE
+Adaptation,Vulnerability,,vulnerability_coastal_zones,Vulnerability: coastal zones,,,NDC Explorer,TRUE
+Adaptation,Vulnerability,,costs_of_recent_climate_related_hazards,Costs of recent climate-related hazards (currency US$),,,NDC Explorer,TRUE
+Adaptation,Vulnerability,,costs_of_future_climate_related_hazards,Costs of future climate-related hazards (currency US$),,,NDC Explorer,TRUE
+Adaptation,Climate Risks,,climate_risks_extreme_weather,Climate risks: extreme weather,,,NDC Explorer,TRUE
+Adaptation,Climate Risks,,climate_risks_floods,Climate risks: floods,,,NDC Explorer,TRUE
+Adaptation,Climate Risks,,climate_risks_droughts,Climate risks: droughts,,,NDC Explorer,TRUE
+Adaptation,Climate Risks,,climate_risks_temp_increase,Climate risks: temperature increase,,,NDC Explorer,TRUE
+Adaptation,Climate Risks,,climate_risks_sea_level_rise,Climate risks: sea level rise,,,NDC Explorer,TRUE
+Sectoral Information,Adaptation Commitments,,ad_sec_action,Action and priority,Adaptation action/priority,,WB,TRUE
+Sectoral Information,Adaptation Commitments,,ad_sec_tar,Targets,Measurable targets or indicators,ad_sec_action,WB,TRUE
+Sectoral Information,Adaptation Commitments,,ad_sec_time,Time frame,Time frame,ad_sec_action,WB,TRUE
+Sectoral Information,Adaptation Commitments,,ad_sec_conc,Conditional costs,Conditional Costs,ad_sec_action,WB,TRUE
+Sectoral Information,Adaptation Commitments,,ad_sec_unconc,Unconditional costs,Unconditional Costs,ad_sec_action,WB,TRUE
+Sectoral Information,Adaptation Commitments,,GCA_Sector,Adapt Now sector,GCA_Sector,ad_sec_action,WB,TRUE
+Sectoral Information,Adaptation Commitments,,GCA_subsector,Adapt Now subsector,GCA_subsector,ad_sec_action,WB,TRUE
+Sectoral Information,Adaptation Commitments,,GCA_Sector_2,Adapt Now sector (2),GCA_Sector_2,ad_sec_action,WB,TRUE
+Sectoral Information,Adaptation Commitments,,GCA_Subsector_2,Adapt Now subsector (2),GCA_Subsector_2,ad_sec_action,WB,TRUE
+Sectoral Information,Adaptation Commitments,,GCA_Sector_3,Adapt Now sector (3),GCA_Sector_3,ad_sec_action,WB,TRUE
+Sectoral Information,Adaptation Commitments,,GCA_Subsector_3,Adapt Now subsector (3),GCA_Subsector_3,ad_sec_action,WB,TRUE

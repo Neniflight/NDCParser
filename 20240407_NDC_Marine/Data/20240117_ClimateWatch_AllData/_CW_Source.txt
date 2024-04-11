@@ -1,0 +1,9 @@
+ClimateWatch NDC Data
+
+2024-01-17
+
+https://www.climatewatchdata.org/data-explorer/
+
+"Download Bulk Data"
+
+Includes all NDCs published through 2023-10-10 in HTML format

@@ -1,0 +1,88 @@
+2024-03-07 
+
+SIO 199 2023/24 Spring Quarter Week 01 Assignment: NDC-Marine Linkages
+
+Hi Calvin and McKenna,
+
+Here's the assignment:
+
+REVIEW PREVIOUS WORK (Calvin)
+
+(1) Review the input data: 20240118_countries.csv has metadata on 302 documents (INDCs, NDCs, revised NDCs), country, ISO code, date of publication, file path
+
+(2) Review the input data: 20240117_ClimateWatch_AllData/NDC_text_HTML/ndc-master/
+
+These are HTML files created by Climate Watch by hand from PDFs, which are available online, and which I think I have on file somewhere. Ultimately we may want to look at the PDFs to see how well we could perform the full pipelined task from PDF to output, without the benefit of Climate Watch's HTML conversion. For now, let's just work with the HTML files, which you can inspect.
+
+(3) Rewrite my code in "Code/20240117_01_Revised_NDCs_Parse_HTML.R" in Python. See if I've made any mistakes. The code is not well documented I'm afraid. But maybe by reading through it and examining the output table: "Output/20240118_ndc_lines.csv" you will be able to understand what I did.
+
+NEW STUFF (McKenna and Calvin)
+
+(4) Work with "Output/20240118_ndc_lines.csv" and build a search algorithm in Python.
+
+"line" is the key field. That is the extracted text span of interest from the set of NDCs.
+
+So first step: McKenna, please provide Calvin with a set of marine topic search terms. 
+
+You can use Natalya's paper or the spreadsheets she provided us as a starting point. I think you already came up with a set of search terms.
+
+The ideal structure would be something like:
+
+"NDC_Marine_Topics.csv"
+
+topic,keyword
+fruit,apple
+fruit,banana
+fruit,orange
+fruit,watermelon
+pet,dog
+pet,cat
+pet,horse
+pet,snake
+game,baseball
+game,basketball
+game,soccer
+game,badminton
+
+etc., but where topic is something like "blue carbon", or "fisheries", or "deep ocean", or "marine carbon dioxide removal", "marine biodiversity" or ...
+
+You are welcome to use GPT to help you come up with extensive sets of keywords for each marine topic you come up with, or even to come up with a set of topics. If you decide to do this, please keep track of all the prompts and responses you submit and receive. If you want to come up with topics and keywords by hand that's ok too.
+
+Once you have your full set of topics and keywords, please send them to me and to Calvin as a csv file, or an Excel spreadsheet, or Google Sheet, in the format shown above, with the file name "NDC_Marine_Topics.csv", or "NDC_Marine_Topics.xlsx".
+
+Calvin, once you have the matched set of topics and keywords from McKenna I want you to write code that loops over all the "line" elements in "Output/20240118_ndc_lines.csv" and counts the occurrence of each keyword. You should end up with two tables that look like this:
+
+country,iso,ndc,topic,keyword,occurrences
+United Kingdom,GBR,1,apple,46
+United Kingdom,GBR,2,apple,21
+United States,USA,1,apple,17
+United States,USA,2,apple,23
+
+Here we see that for the UK fruits were mentioned more in NDC1 than in NDC2. For the United states we see that fruits were mentioned more in NDC2 than in NDC1.
+
+country,iso,ndc,topic,occurrences
+United Kingdom,GBR,1,fruit,46
+United Kingdom,GBR,2,fruit,21
+United States,USA,1,fruit,17
+United States,USA,2,fruit,23
+
+Here we see that for the UK fruits were mentioned more in NDC1 than in NDC2. For the United states we see that fruits were mentioned more in NDC2 than in NDC1.
+
+Sorry, these are silly examples, but hopefully you get where I'm going here.
+
+If you have questions, just ask. You'll get a faster response from me if you contact me by email, but Slack is fine too. If you'd like 1/2 hour to discuss, I'm available:
+
+Mon 8 Apr: 9-10, 12-1, maybe 3-7 pm
+Thu 11 Apr: 11-1
+Fri 12 Apr: most of the day
+
+TIMELINE and DEADLINE
+
+Calvin, I expect you to rewrite my "20240117_01_Revised_NDCs_Parse_HTML.R" code before our Week 3 meeting, by Tue 16 Apr at the latest. Similarly, McKenna I expect a full set of topic keyword pairs by Tue 16 Apr at the latest.
+
+Calvin, I'll ask you how it's going at our next meeting. I suggest at least starting the task so that I can answer any questions you have at our next meeting (Thu Apr 11).
+
+McKenna, if you are able to get your task done sooner, please do so. As soon as I have your list I will run a preliminary test so I can generate some results for you and Natalya and Lisa Levin to chew on.
+
+Best, Tom
+
